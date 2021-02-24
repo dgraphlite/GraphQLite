@@ -8,4 +8,4 @@ Dgraph is a great graph database with a native GraphQL API endpoint. Dgraph howe
 
 What SQLite is to SQL, GraphQLite is inteded to be for Dgraph.
 
-View the [Project Board](https://github.com/amaster507/GraphQLite/projects) to get involved in the idea phase for this.
+View the [Project Board](https://github.com/dgraphlite/GraphQLite/projects) to get involved in the idea phase for this.
